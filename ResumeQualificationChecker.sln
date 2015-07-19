@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResumeQualificationChecker", "resume_synthesis_UI\resume_synthesis_UI.vcxproj", "{72AFF4CE-EAD5-4F23-991D-9DD22CF4E470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72AFF4CE-EAD5-4F23-991D-9DD22CF4E470}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72AFF4CE-EAD5-4F23-991D-9DD22CF4E470}.Debug|Win32.Build.0 = Debug|Win32
+		{72AFF4CE-EAD5-4F23-991D-9DD22CF4E470}.Release|Win32.ActiveCfg = Release|Win32
+		{72AFF4CE-EAD5-4F23-991D-9DD22CF4E470}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

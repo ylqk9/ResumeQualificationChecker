@@ -1,0 +1,6 @@
+7-year programming experience with C++ and FORTRAN 2003 for high performance computing (distributed).
+8-year experience in scientific modeling and simulations on Linux platform.
+Extensive knowledge in algorithms, machine learning and numerical methods.
+8-year experience with big data such as data transformation, pattern recognition, visualization and etc.
+Hands-on experience in translating ideas and models into program or software product.
+Working experience with Matlab, Python, R, etc.
